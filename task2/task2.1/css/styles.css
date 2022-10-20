@@ -1,0 +1,24 @@
+
+.col-container{
+    padding: 0%;
+}
+.col{
+    margin: 0.5rem;
+    height: 10rem;
+}
+.row1 .col{
+    background-color: pink; 
+}
+.row2 .col{
+    background-color: #ee2e84;
+}
+.row3 .col{
+    background-color: #85cfd8 ;
+}
+.row4 .col{
+    background-color: #8dc63f ;
+}
+.row4 .col-orange {
+    background-color: #e76e34;
+}
+

@@ -1,0 +1,15 @@
+.box{
+    background-color: #4c77cf;
+    padding: 5rem 8rem;
+    background-image: linear-gradient(to bottom right, #4c77cf,#46a7a8);
+}
+.container{
+    text-align: center;
+    background-color: white;
+    padding: 5rem ;
+}
+button{
+    color: white;
+    background-color: #1d6fd9;
+}
+
